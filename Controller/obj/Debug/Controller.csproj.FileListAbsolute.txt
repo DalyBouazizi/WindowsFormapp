@@ -1,0 +1,13 @@
+C:\Users\21650\source\repos\ApplicationSimple\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\21650\source\repos\ApplicationSimple\Controller\obj\Debug\Controller.Properties.Resources.resources
+C:\Users\21650\source\repos\ApplicationSimple\Controller\obj\Debug\Controller.csproj.GenerateResource.cache
+C:\Users\21650\source\repos\ApplicationSimple\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\21650\source\repos\ApplicationSimple\Controller\bin\Debug\Controller.exe.config
+C:\Users\21650\source\repos\ApplicationSimple\Controller\bin\Debug\Controller.exe
+C:\Users\21650\source\repos\ApplicationSimple\Controller\bin\Debug\Controller.pdb
+C:\Users\21650\source\repos\ApplicationSimple\Controller\bin\Debug\Model.exe
+C:\Users\21650\source\repos\ApplicationSimple\Controller\bin\Debug\Model.pdb
+C:\Users\21650\source\repos\ApplicationSimple\Controller\bin\Debug\Model.exe.config
+C:\Users\21650\source\repos\ApplicationSimple\Controller\obj\Debug\Controller.csproj.Up2Date
+C:\Users\21650\source\repos\ApplicationSimple\Controller\obj\Debug\Controller.exe
+C:\Users\21650\source\repos\ApplicationSimple\Controller\obj\Debug\Controller.pdb
